@@ -13,6 +13,4 @@ me['hair color'] = 'Brown'
 
 //2. Iterate over the object to console.log the propery or key names. 
 
-function name() {
-
-}
+console.log(Object.getOwnPropertyNames(me))
